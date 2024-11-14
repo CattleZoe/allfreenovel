@@ -1,6 +1,6 @@
 # AllFreeNovel - Your Gateway to Free Web Novels
 
-![AllFreeNovel](logo.png)
+![AllFreeNovel](logo-blue.webp)
 
 [AllFreeNovel.cc](https://allfreenovel.cc) is a comprehensive platform dedicated to providing free access to web novels from various sources. Our mission is to make quality web novels accessible to everyone.
 
